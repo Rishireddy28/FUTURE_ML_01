@@ -17,3 +17,10 @@ Features:
 
 Output:
 - Graph showing sales trend and prediction
+Task 2: Sentiment Analysis using Naive Bayes with Accuracy Evaluation
+
+Features:
+- Text classification (Positive/Negative)
+- CountVectorizer for text processing
+- Train-Test Split
+- Accuracy calculation
