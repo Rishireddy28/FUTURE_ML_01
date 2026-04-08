@@ -2,6 +2,7 @@
 # Sales Forecasting Project
 
 This project predicts future sales using Machine Learning.
+Task 2: Sentiment Analysis using NLP
 
 Tools Used:
 - Python
